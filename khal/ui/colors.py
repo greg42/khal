@@ -92,3 +92,39 @@ light = [
     ('editcp', 'black', 'light gray', 'standout'),
     ('popupbg', 'white', 'black', 'bold'),
 ]
+blue = [
+    ('header', 'light gray', 'dark blue'),
+    ('footer', 'light gray', 'dark blue'),
+    ('line header', 'black', 'white', 'bold'),
+    ('bright', 'dark blue', 'white', ('bold', 'standout')),
+    ('list', 'black', 'white'),
+    ('list focused', 'white', 'light blue', 'bold'),
+    ('edit', 'black', 'white'),
+    ('edit focused', 'white', 'light blue', 'bold'),
+    ('button', 'black', 'dark cyan'),
+    ('button focused', 'white', 'light blue', 'bold'),
+
+    ('reveal focus', 'black', 'dark cyan', 'standout'),
+    ('today focus', 'white', 'dark cyan', 'standout'),
+    ('today', 'light gray', 'black', 'dark cyan'),
+
+    ('date', 'light cyan', 'black'),
+    ('date focused', 'yellow', 'light red', ('bold', 'standout')),
+    ('date selected', 'yellow', 'light red'),
+
+    ('dayname', 'light cyan', 'black'),
+    ('monthname', 'light cyan', 'black'),
+    ('weeknumber_right', 'light cyan', 'black'),
+    ('edit', 'white', 'dark blue'),
+    ('alert', 'light red', 'dark blue'),
+    ('mark', 'white', 'dark green'),
+    ('frame', 'dark gray', 'white'),
+    ('frame focus', 'light red', 'white'),
+    ('frame focus color', 'dark blue', 'white'),
+    ('frame focus top', 'dark magenta', 'white'),
+
+    ('editfc', 'white', 'dark blue', 'bold'),
+    ('editbx', 'light gray', 'dark blue'),
+    ('editcp', 'black', 'light gray', 'standout'),
+    ('popupbg', 'white', 'black', 'bold'),
+]
